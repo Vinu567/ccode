@@ -2,7 +2,8 @@
 void main()
 {
 	printf("hello");
-
+	printf("vinod kumar");
+	printf("address of a employee..");
 
 }
 
