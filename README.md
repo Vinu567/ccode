@@ -10,3 +10,7 @@ scanf("%d%d",&a,&b);
  c=a/b;
  printf("c value...%d",&c);
  }
+ fun1(int a)
+ {
+ printf("hi   i am vinod");
+ }
